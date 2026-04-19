@@ -1,0 +1,6 @@
+fraud_env/
+creditcard.csv
+__pycache__/
+*.pyc
+.DS_Store
+*.png
