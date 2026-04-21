@@ -1,5 +1,6 @@
 fraud_env/
 creditcard.csv
+fraud_model.pkl
 __pycache__/
 *.pyc
 .DS_Store

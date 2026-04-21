@@ -5,3 +5,5 @@ matplotlib
 seaborn
 imbalanced-learn
 streamlit
+joblib
+kaggle
